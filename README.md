@@ -6,6 +6,6 @@ Recently rebuilt a real-time multiplayer web app's frontend architecture for a c
 
 I also build my own tools when I need them — a CLI file-sync utility ([FolderSynka](https://github.com/ARichie1/foldersynka)) and a couple of small Web3 utilities (bip39-validator).
 
-📄 Portfolio: richardakinmade.onrender.com
+📄 Portfolio: https://richardakinmade.onrender.com
 
-💼 LinkedIn: linkedin.com/in/richard-akinmade-825b86199
+💼 LinkedIn: https://linkedin.com/in/richard-akinmade-825b86199
